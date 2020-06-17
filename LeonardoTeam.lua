@@ -5983,8 +5983,6 @@ Text = [[
 [☽ ¦ مطور السورس ](http://t.me/EEI22)
 					
 [☽ ¦ تواصل السورس](http://t.me/Ggaa7bot)
-					
-
 send(msg.chat_id_, msg.id_,Text)
 end
 if text == 'الاوامر' and Addictive(msg) then
